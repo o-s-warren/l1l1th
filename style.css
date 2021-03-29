@@ -583,3 +583,11 @@ video {
 	}
 
 }
+
+@media screen and (min-width: 1500px) {
+
+	.card-grid {
+		grid-template-rows: 340px 696px 503px 550px 720px 583px 542px;
+	}
+
+}
